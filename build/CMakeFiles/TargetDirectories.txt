@@ -1,0 +1,6 @@
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/morphology_lib.dir
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/morphology_demo.dir
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/morphology_tests.dir
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/test.dir
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/CMakeFiles/rebuild_cache.dir

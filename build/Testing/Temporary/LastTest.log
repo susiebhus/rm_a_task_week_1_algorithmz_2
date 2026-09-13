@@ -1,0 +1,19 @@
+Start testing: Sep 13 12:07 +08
+----------------------------------------------------------
+1/1 Testing: morphology_tests
+1/1 Test: morphology_tests
+Command: "/mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build/morphology_tests"
+Directory: /mnt/c/Users/LiuLu/Documents/GitHub/rm_a_task_week_1_algorithmz_2/build
+"morphology_tests" start time: Sep 13 12:07 +08
+Output:
+----------------------------------------------------------
+PASS: 6 morphology test scenarios
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"morphology_tests" end time: Sep 13 12:07 +08
+"morphology_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 12:07 +08
