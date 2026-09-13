@@ -7,10 +7,10 @@
 ## 构建与验证
 
 ```powershell
-cmake -S exercises/morphology -B exercises/morphology/build
-cmake --build exercises/morphology/build
-ctest --test-dir exercises/morphology/build --output-on-failure
-./exercises/morphology/build/morphology_demo.exe
+cmake -S . -B build
+cmake --build build
+ctest --test-dir build --output-on-failure
+./build/morphology_demo.exe
 ```
 
 测试覆盖单像素、小正方形、边缘像素、相邻区域、无前景图像、菱形核和腐蚀。
