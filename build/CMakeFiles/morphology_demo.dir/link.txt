@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/morphology_demo.dir/link.d CMakeFiles/morphology_demo.dir/src/main.cpp.o -o morphology_demo  libmorphology_lib.a

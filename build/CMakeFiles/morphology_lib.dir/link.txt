@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmorphology_lib.a CMakeFiles/morphology_lib.dir/src/binary_image.cpp.o CMakeFiles/morphology_lib.dir/src/structuring_element.cpp.o CMakeFiles/morphology_lib.dir/src/morphology.cpp.o
+/usr/bin/ranlib libmorphology_lib.a
